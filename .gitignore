@@ -1,5 +1,6 @@
 *.iml
 .gradle
+.idea
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -16,4 +17,3 @@ local.properties
 app/build
 benchmark/.gradle
 benchmark/.build
-.idea
